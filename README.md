@@ -1,5 +1,5 @@
 🎮 2048 Game (Python CLI)
-Trò chơi 2048 viết bằng Python, chạy trên terminal.
+Trò chơi 2048 viết bằng Python, chạy trên terminal.(BTL)
 
 🚀 Cách chạy
 python main.py
