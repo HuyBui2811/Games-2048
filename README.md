@@ -2,6 +2,7 @@
 Trò chơi 2048 viết bằng Python, chạy trên terminal.(BTL)
 
 🚀 Cách chạy
+
 python Vserver.py
 
 python Vclient.py
