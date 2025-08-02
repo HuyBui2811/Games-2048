@@ -2,7 +2,8 @@
 Trò chơi 2048 viết bằng Python, chạy trên terminal.(BTL)
 
 🚀 Cách chạy
-python main.py
+python Vserver.py
+python Vclient.py
 🎮 Điều khiển
 W / A / S / D hoặc các phím mũi tên để di chuyển
 
