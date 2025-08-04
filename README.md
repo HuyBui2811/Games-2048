@@ -1,16 +1,16 @@
 🎮 2048 Game (Python CLI)
-Trò chơi 2048 viết bằng Python, chạy trên terminal.(BTL)
+A 2048 game written in Python, playable in the terminal. (Final Project)
 
-🚀 Cách chạy
+🚀 How to Run
 
-python Vserver.py
-
+python Vserver.py  
 python Vclient.py
 
-🎮 Điều khiển
-W / A / S / D hoặc các phím mũi tên để di chuyển
 
-Mục tiêu: tạo ô số 2048
+🎮 Controls
+Use W / A / S / D or arrow keys to move.
+
+Goal: Create a tile with the number 2048.
 
 
 
